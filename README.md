@@ -57,31 +57,21 @@ Screenshots of **Postman** outcomes and **H2 database tables** are available in 
 ![LOGIN_CREDENTIALS](https://github.com/CodingBazaar/contact-app/assets/37098603/5d3a649b-c9d0-4254-9f37-d25169427fbd)
 
 ### GET API
-![GET](https://github.com/CodingBazaar/contact-app/assets/37098603/5f80c1aa-9e27-48dd-b097-b337a0712d67)
+![image](https://github.com/9579083813/Employee-Information/assets/11847962/cbee1f00-933f-4293-9365-a087c6c26be1)
+
 
 ### GET by Id
-![GET_BY_ID](https://github.com/CodingBazaar/contact-app/assets/37098603/e13f1c54-ffee-4047-a823-e3a7c0a6325e)
+![image](https://github.com/9579083813/Employee-Information/assets/11847962/84628f11-431f-43bf-8d2e-c8db3217008d)
 
-### GET by id ( incorrect id entered )
-![GET_BY_ID_NotFoundException](https://github.com/CodingBazaar/contact-app/assets/37098603/77bfb798-22ae-43b0-a992-8d59e5edd31f)
+
 
 ### POST API
-![POST](https://github.com/CodingBazaar/contact-app/assets/37098603/6a2ad04e-a62a-4898-a369-0c255562f965)
+![image](https://github.com/9579083813/Employee-Information/assets/11847962/3af55e20-8f73-43b2-bc43-30327e9be2f4)
+
 
 ### UPDATE API
-![UPDATE](https://github.com/CodingBazaar/contact-app/assets/37098603/01b4c573-47c5-4a38-85cd-146757011245)
+![image](https://github.com/9579083813/Employee-Information/assets/11847962/0e7fb77b-bf44-4e83-a90b-3f3283c1d41c)
 
-### DELETE ALL RECORDS API
-![DELETE_ALL_RECORDS](https://github.com/CodingBazaar/contact-app/assets/37098603/65368dbd-0b38-4bd6-903b-7cea9cee785a)
-
-### DELETE BY ID API
-![DELETE_BY_ID](https://github.com/CodingBazaar/contact-app/assets/37098603/cbc44204-ef9c-43dc-9a77-8063290ed3f2)
-
-### Check Results ID 1 is deleted
-![ID1_DELETED](https://github.com/CodingBazaar/contact-app/assets/37098603/9217ee41-5710-4acf-82ba-30e62002dd8b)
-
-### HAVE TO ENTER AUTH HEADERS FOR API's
-![DELETE_REQUIRES_AUTH](https://github.com/CodingBazaar/contact-app/assets/37098603/78d39f8a-6938-4b9c-b013-06eb6430d643)
 
 
 
